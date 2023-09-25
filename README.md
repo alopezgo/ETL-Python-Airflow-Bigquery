@@ -1,4 +1,4 @@
-# ETL process with python, Bigquery API and Airflow
+# ETL process with Python, Bigquery API and Airflow
 This is a repository about data enginering with wide examples for extract transform and load data in an empreuner context, specificly data from streaming audio for a media enterprise.
 
 # Audio data transmission (streaming), some terms to categorize them:
